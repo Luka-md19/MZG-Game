@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B1568E-0E9B-49BB-B7D8-7D167D54B4FE}|quiz02\\quiz02.csproj|C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\quiz02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71B1568E-0E9B-49BB-B7D8-7D167D54B4FE}|quiz02\\quiz02.csproj|solutionrelative:quiz02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B1568E-0E9B-49BB-B7D8-7D167D54B4FE}|quiz02\\quiz02.csproj|c:\\users\\malek\\documents\\luka-univ\\rad\\quiz02\\quiz02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B1568E-0E9B-49BB-B7D8-7D167D54B4FE}|quiz02\\quiz02.csproj|solutionrelative:quiz02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\quiz02\\Form1.cs",
+              "RelativeDocumentMoniker": "quiz02\\Form1.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\quiz02\\Form1.cs",
+              "RelativeToolTip": "quiz02\\Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwLgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-16T12:30:45.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\quiz02\\Form1.cs",
+              "RelativeDocumentMoniker": "quiz02\\Form1.cs",
+              "ToolTip": "C:\\Users\\malek\\Documents\\luka-univ\\RAD\\quiz02\\quiz02\\Form1.cs [Design]",
+              "RelativeToolTip": "quiz02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-16T12:03:28.046Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
